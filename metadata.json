@@ -1,0 +1,6 @@
+{
+  "name": "AirWatch AI",
+  "description": "Hyperlocal pollution intelligence and climate-action platform for Indian cities with AI-powered risk assessment and authority alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
